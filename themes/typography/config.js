@@ -10,7 +10,7 @@ const CONFIG = {
   TYPOGRAPHY_ARTICLE_RECOMMEND_POSTS: process.env.NEXT_PUBLIC_TYPOGRAPHY_ARTICLE_RECOMMEND_POSTS || true, // 文章详情底部显示推荐
 
   // 菜单配置
-  TYPOGRAPHY_MENU_CATEGORY: false, // 显示分类
+  TYPOGRAPHY_MENU_CATEGORY: true, // 显示分类
   TYPOGRAPHY_MENU_TAG: true, // 显示标签
   TYPOGRAPHY_MENU_ARCHIVE: true, // 显示归档
 }
