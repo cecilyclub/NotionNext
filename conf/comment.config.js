@@ -11,7 +11,7 @@ module.exports = {
     process.env.NEXT_PUBLIC_COMMENT_NOTION_ENABLE === 'true' || false,
 
   // artalk 评论插件
-  COMMENT_ARTALK_SERVER: process.env.NEXT_PUBLIC_COMMENT_ARTALK_SERVER || '', // ArtalkServert后端地址 https://artalk.js.org/guide/deploy.html
+  COMMENT_ARTALK_SERVER: process.env.NEXT_PUBLIC_COMMENT_ARTALK_SERVER || 'https://ping.cecily.eu.org/', // ArtalkServert后端地址 https://artalk.js.org/guide/deploy.html
   COMMENT_ARTALK_JS:
     process.env.NEXT_PUBLIC_COMMENT_ARTALK_JS ||
     'https://cdnjs.cloudflare.com/ajax/libs/artalk/2.5.5/Artalk.js', // ArtalkServert js cdn
