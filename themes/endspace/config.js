@@ -52,7 +52,7 @@ const CONFIG = {
   // 水印文字配置 (Watermark Text)
   // ============================================
   // 首页标题栏背景滚动水印文字（大字循环动画）
-  ENDSPACE_BANNER_WATERMARK_TEXT: '闲话终日有·不听自然无',
+  ENDSPACE_BANNER_WATERMARK_TEXT: 'IT'S OKAY TO NOT BE OKAY',
   // 文章详情页右上角水印文字
   ENDSPACE_ARTICLE_WATERMARK_TEXT: '拾光',
 
